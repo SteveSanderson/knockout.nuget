@@ -8,7 +8,10 @@
     <language>en-US</language>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
     <projectUrl>http://knockoutjs.com/</projectUrl>
-    <iconUrl>http://github.com/SteveSanderson/knockout.nuget/raw/master/logo-small.png</iconUrl>
+    <iconUrl>http://github.com/SteveSanderson/knockout.nuget/raw/master/logo.png</iconUrl>
+    <dependencies>
+      <dependency id="jQuery.Templates" version="0.1" />
+    </dependencies>
   </metadata> 
   <files>
     <file src="Content\**\*.*" target="Content" />
